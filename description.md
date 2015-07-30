@@ -23,8 +23,7 @@ web: [http://www.balandinodidonato.com](http://www.balandinodidonato.com)
 
 ### James Dooley ###
 
-
-bio to be insert []
+James Dooley is a digital artist and creative coder based in Birmingham, UK. James’ performance and installation works use sound to create a sense of place — a meta-environment — to transform existing spaces. Influenced by complexity science, his works rely on the interactions between many simple and autonomous elements that coalesce to produce emergent forms that slowly evolve over time.
 
 web: [http://www.jrdooley.com](http://www.jrdooley.com)
 
