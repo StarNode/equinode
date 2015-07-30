@@ -7,7 +7,7 @@ Author: Star Node  (Main Authors: Balandino Di Donato, James Dooley, Guido Iomma
 
 Star Node is a multidisciplinary group of artists. The Node of music, visual arts, computer science, engineering, biology and human-computer interactivity dislocated between Italy and United Kingdom, it is the strength  of the Star Node group.
 
-The group recently formed, is composed by Maurizio Di Berardino, Balandino Di Donato, James Dooley, Riccardo La Chioma, Guido Iommarini, Flavia Massimo, Luana Mincarelli Cristian Paolucci. 
+The group recently formed, is composed by Maurizio Di Berardino, Balandino Di Donato, James Dooley, Riccardo La Chioma, Guido Iommarini, Flavia Massimo, Luana Fiorella Mincarelli, Cristian Paolucci. 
 
 Their main focus on sound-art installations come from the necessity of expressing their artistic ideas through an immersive audience experience, empowering themselves to interact and so to establish the evolution of the artwork itself.
 
