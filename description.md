@@ -3,14 +3,13 @@
 ## Authors ##
 
 
-Author: Star Node  (Main Authors: Balandino Di Donato and James Dooley)
+Author: Star Node  (Main Authors: Balandino Di Donato, James Dooley, Guido Iommarini)
 
 Star Node is a multidisciplinary group of artists. The Node of music, visual arts, computer science, engineering, biology and human-computer interactivity dislocated between Italy and United Kingdom, it is the strength  of the Star Node group.
 
-The group recently formed, is composed by Maurizio Di Berardino, Balandino Di Donato, James Dooley, Riccardo La Chioma, Flavia Massimo, Cristian Paolucci. 
+The group recently formed, is composed by Maurizio Di Berardino, Balandino Di Donato, James Dooley, Riccardo La Chioma, Guido Iommarini, Flavia Massimo, Cristian Paolucci. 
 
 Their main focus on sound-art installations come from the necessity of expressing their artistic ideas through an immersive audience experience, empowering themselves to interact and so to establish the evolution of the artwork itself.
-
 
 The main authors of "equinode" are Balandino Di Donato and James Dooley.
 
@@ -19,12 +18,19 @@ Balandino Di Donato is a PhD student at the Integra Lab (Birmingham City Univeri
 
 Previously, he has been working for Centro Ricerche Musicali di Roma, where he has been involved in sound art installations realised by Michelangelo Lupone and Licia Galizia in Italy, Peru, Egypt and Turkey over the period 2009-2013. Afterwards his graduation at A.Casella Conservatoire, with a thesis regarding the use and development of application for the Tangible User Interface Metis, Balandino moved to Birmingham to join the Integra Lab for the development of Integra Live, where later on he gained a position as PhD Student.
 
+web: [http://www.balandinodidonato.com](http://www.balandinodidonato.com)
+
 
 ### James Dooley ###
 
 
+bio to be insert []
 
+web: [http://www.jrdooley.com](http://www.jrdooley.com)
 
+### Guido Iommarini ###
+
+bio to be insert.
 
 ##Catch Line
 Balance, tilt and control, uncover sound and shine a light on the hidden. Step onto the platform and find your point of balance; your state of equilibrium.
