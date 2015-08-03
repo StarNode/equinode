@@ -17,6 +17,7 @@ The main authors of "equinode" are Balandino Di Donato and James Dooley.
 Balandino Di Donato is a PhD student at the Integra Lab (Birmingham City Univeristy), which research is focused on live sound spatialisation using gestural controller. 
 
 Previously, he has been working for Centro Ricerche Musicali di Roma, where he has been involved in sound art installations realised by Michelangelo Lupone and Licia Galizia in Italy, Peru, Egypt and Turkey over the period 2009-2013. Afterwards his graduation at A.Casella Conservatoire, with a thesis regarding the use and development of application for the Tangible User Interface Metis, Balandino moved to Birmingham to join the Integra Lab for the development of Integra Live, where later on he gained a position as PhD Student.
+Recently he published his work in UK, Austria and Sweden where he has been awarded for the EU Project Music Bricks.
 
 web: [http://www.balandinodidonato.com](http://www.balandinodidonato.com)
 
@@ -29,7 +30,7 @@ web: [http://www.jrdooley.com](http://www.jrdooley.com)
 
 ### Guido Iommarini ###
 
-bio to be insert.
+Guido Iommarini is an Italian guitarist whose peculiarity is the unusual approach to guitar playing, which frequently involves massive use of effects. He was a member of the Italian band "Unheimlich!" and he is currently collaborating with other young Italian artists in different projects.
 
 ##Catch Line
 Balance, tilt and control, uncover sound and shine a light on the hidden. Step onto the platform and find your point of balance; your state of equilibrium.
